@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there, I'm Travis 💻😄
 
-<!--
-**tfont/tfont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer who is passionate about making open-source more accessible, creating new concepts to elevate inspiration and technologies, and enhancing communities.
 
-Here are some ideas to get you started:
+**General Languages:**<br/>
+PHP, JavaScript, TypeScript, C & C++, and C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Databases Languages:**<br/>
+MySQL (including MariaDB), MongoDB, Jsonnet, & TOML
+
+**PHP Frameworks:**<br/>
+Laravel, Phalcon, Symfony, PHPUnit, and WordPress
+
+**JavaScript Frameworks / Libraries:**<br/>
+Angular, jQuery, Lodash, Locutus, moment.js, and date-fns
+
+## Find me around the web 🌎
+- Learning in public on <a href="https://stackoverflow.com/users/1804013/tfont">Stack Overflow</a> 💡⚡
+- Sharing updates and articles on <a href="https://twitter.com/travisfont">Twitter</a> 🌱💻💬
