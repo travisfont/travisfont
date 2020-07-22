@@ -16,4 +16,6 @@ Angular, jQuery, Lodash, Locutus, moment.js, and date-fns
 
 ## Find me around the web 🌎
 - Learning in public on <a href="https://stackoverflow.com/users/1804013/tfont">Stack Overflow</a> 💡⚡
-- Sharing updates and articles on <a href="https://twitter.com/travisfont">Twitter</a> 🌱💻💬
+- Sharing updates and articles on <a href="https://twitter.com/travisfont">Twitter</a> 🌱💬
+- More about the technologies and software that I use at <a href="https://stackshare.io/travisfont/my-tech-stacks/main">StackShare</a> 💻⚙
+- You can also find my CV/Resume online at <a href="https://www.linkedin.com/in/tfont">Linkedin</a>🎓📚
