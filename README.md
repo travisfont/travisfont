@@ -9,7 +9,7 @@ PHP, JavaScript, TypeScript, C & C++, and C#
 MySQL (including MariaDB), MongoDB, Jsonnet, & TOML
 
 **PHP Frameworks:**<br/>
-Symfony, Laravel, Phalcon, PHPUnit, and WordPress
+Symfony, Laravel, PHPUnit, and WordPress
 
 **JavaScript Frameworks / Libraries:**<br/>
 Angular, jQuery, Lodash, Locutus, moment.js, and date-fns
