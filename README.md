@@ -23,4 +23,9 @@ Angular, jQuery, Lodash, Locutus, moment.js, and date-fns
 - A complete overview of my GitHub contributions can be reviewed at <a href="https://sourcerer.io/tfont">sourcerer.io/tfont</a> ✔ 📊
 
 ## Discussions / Request for Comments
+
 - **MariaDB Server -** <a href="https://jira.mariadb.org/browse/MDEV-13467?page=com.atlassian.jira.plugin.system.issuetabpanels%3Aall-tabpanel">Feature request: Support for ST_Distance_Sphere()</a>
+- **CakePHP -** <a href="https://github.com/cakephp/cakephp/pull/14193">Removed @throws tags from IntegrationTestTrait HTTP Methods</a>
+- **Event Espresso 4 Core (WordPress) -** <a href="https://github.com/eventespresso/event-espresso-core/issues/240">Changing Price from Action/Filter Hook (Registration)</a>
+- **Corcel (WordPress) -** <a href="https://github.com/corcel/corcel/pull/198">Avoiding PHP Notice</a>
+- **History Master -** <a href="https://github.com/jiacai2050/history-master/issues/20">Not Displaying Today</a>
