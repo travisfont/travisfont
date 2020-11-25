@@ -21,3 +21,6 @@ Angular, jQuery, Lodash, Locutus, moment.js, and date-fns
 - You can also find my CV/Resume online at <a href="https://www.linkedin.com/in/tfont">Linkedin</a>🎓📚
 - And you can catch me hanging around <a href="https://dev.to/travisfont">dev.to</a> 🤓🧾
 - A complete overview of my GitHub contributions can be reviewed at <a href="https://sourcerer.io/tfont">sourcerer.io/tfont</a> ✔ 📊
+
+## Discussions / Request for Comments
+- **MariaDB Server -** <a href="https://jira.mariadb.org/browse/MDEV-13467?page=com.atlassian.jira.plugin.system.issuetabpanels%3Aall-tabpanel">Feature request: Support for ST_Distance_Sphere()</a>
