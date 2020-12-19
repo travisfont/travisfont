@@ -29,3 +29,5 @@ Angular, jQuery, Lodash, Locutus, moment.js, and date-fns
 - **Event Espresso 4 Core (WordPress) -** <a href="https://github.com/eventespresso/event-espresso-core/issues/240">Changing Price from Action/Filter Hook (Registration)</a>
 - **Corcel (WordPress) -** <a href="https://github.com/corcel/corcel/pull/198">Avoiding PHP Notice</a>
 - **History Master -** <a href="https://github.com/jiacai2050/history-master/issues/20">Not Displaying Today</a>
+
+<img src="https://komarev.com/ghpvc/?username=tfont&label=Profile%20views&color=0366d6&style=flat"/>
