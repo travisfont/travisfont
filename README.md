@@ -1,6 +1,8 @@
+![image](https://github.com/travisfont/tfont/assets/2539998/8d5a7e1f-e5f5-43d4-a2b8-0c91c5aa1d22)
+
 # Hi there, I'm Travis 💻😄
 
-I'm a software engineer who is passionate about making open-source more accessible, creating new concepts to elevate inspiration and technologies, and enhancing communities.
+> I'm a software engineer who is passionate about making open source more accessible, creating new concepts to elevate inspiration and technologies, and enhancing communities.
 
 **General Languages:**<br/>
 PHP, JavaScript, TypeScript, C & C++, and C#
