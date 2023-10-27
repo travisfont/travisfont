@@ -26,8 +26,8 @@ Angular, jQuery, Lodash, Locutus, moment.js, and date-fns
 
 ## Discussions / Request for Comments
 
-- **MariaDB Server -** <a href="https://jira.mariadb.org/browse/MDEV-13467?page=com.atlassian.jira.plugin.system.issuetabpanels%3Aall-tabpanel">Feature request: Support for ST_Distance_Sphere()</a>
-- **JetBrains DataGrip -** <a href="https://youtrack.jetbrains.com/issue/DBE-13087">Distinct Selection Feature</a>
+- **MariaDB Server -** <a href="https://jira.mariadb.org/browse/MDEV-13467?page=com.atlassian.jira.plugin.system.issuetabpanels%3Aall-tabpanel">Feature request: Support for ST_Distance_Sphere()</a>  _(2017-08-08)_
+- **JetBrains DataGrip -** <a href="https://youtrack.jetbrains.com/issue/DBE-13087">Distinct Selection Feature</a>  _(2021-04-20)_
 - **CakePHP -** <a href="https://github.com/cakephp/cakephp/pull/14193">Removed @throws tags from IntegrationTestTrait HTTP Methods</a>
 - **Event Espresso 4 Core (WordPress) -** <a href="https://github.com/eventespresso/event-espresso-core/issues/240">Changing Price from Action/Filter Hook (Registration)</a>
 - **Corcel (WordPress) -** <a href="https://github.com/corcel/corcel/pull/198">Avoiding PHP Notice</a>
