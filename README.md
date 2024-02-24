@@ -34,3 +34,5 @@ Angular, jQuery, Lodash, Locutus, moment.js, and date-fns
 - **History Master -** <a href="https://github.com/jiacai2050/history-master/issues/20">Not Displaying Today</a>
 
 <img src="https://komarev.com/ghpvc/?username=tfont&label=Profile%20views&color=0366d6&style=flat"/>
+<img height="1" width="1" src="https://hit.yhype.me/github/profile?user_id=2539998"/>
+
