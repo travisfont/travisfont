@@ -2,9 +2,9 @@
 
 # Hi there, I'm Travis 💻😄
 
-> I'm a software engineer who is passionate about making open source more accessible, creating new concepts to elevate inspiration and technologies, and enhancing communities.
+> A software engineer who is passionate about making open source more accessible, creating new concepts to elevate inspiration and technologies, and enhancing communities.
 
-### C. C++, C#, TypeScript, & PHP
+### C, C++, C#, TypeScript, & PHP
 **#HappyCoding**
 
 ## Find me around the web 🌎
