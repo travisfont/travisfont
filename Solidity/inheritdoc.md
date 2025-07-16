@@ -1,3 +1,5 @@
+# Solidity @inheritdoc Documentation Tag
+
 `@inheritdoc` is a NatSpec documentation tag in Solidity that allows you to inherit documentation from parent contracts, interfaces, or overridden functions without having to rewrite the same documentation.
 
 ## How it works
