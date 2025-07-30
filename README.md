@@ -4,7 +4,7 @@
 
 > The name is Travis - a software engineer who is passionate about making open source more accessible, creating new concepts to elevate inspiration and technologies, and enhancing communities.
 
-### C, C++, C#, TypeScript, PHP, & Go
+### C, C++, C#, TypeScript, PHP, Solidity, & Go
 **#HappyCoding**
 
 ## Find me around the web 🌎
