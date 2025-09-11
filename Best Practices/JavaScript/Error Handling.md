@@ -197,7 +197,7 @@ function apiCall(data)
 }
 ```
 
-### The Golden Rules
+### Fundmental Principles
 
 1. **Let errors bubble up** unless you can meaningfully handle them
 2. **Catch errors where you can take appropriate action**
@@ -216,7 +216,7 @@ Remember: good error handling is like a good safety net. It should be there when
 
 ## Working with Asynchronous Functions
 
-### Example 1 – `try/catch` **inside** the async function
+### Approach A: try/catch **inside** the async function
 
 This is the most common and recommended approach:
 
@@ -247,9 +247,9 @@ async function fetchData() {
 - You can add fallback logic, retries, or logging locally.
 - Keeps responsibilities clear: the function decides what to do with its own errors.
 
-### Example 2 – `try/catch` **outside** the async function
+### Approach B: try/catch **outside** the async function
 
-If you don’t use `try/catch` inside, you can still catch the error where the function is awaited:
+If you don’t use try/catch inside, you can still catch the error where the function is awaited:
 
 ```js
 async function fetchData() {
@@ -279,19 +279,15 @@ With **async functions**, `try/catch` is most useful **inside the function**, be
 - **Leave `try/catch` outside** if you want to propagate errors to the caller and let them decide how to handle it.
 - You can mix both: handle recoverable errors inside, rethrow critical ones to be caught outside.
 
-
-
-Perfect — here’s a *
-
 ---
 
-## 📌 Async Function Error Handling Decision Tree
+## Asynchronous Function Error Handling (Decision Tree)
 
 Now let's continue expending on Example 2.
 Asking 3 questions using a *decision tree**, let's follow when deciding where to put `try/catch` in async functions:
 
-### Can the function itself handle/recover from the error
-**Yes →** Put `try/catch` **inside** the function.
+### Question 1: Can the function itself handle/recover from the error
+Put `try/catch` **inside** the function.
 For retry, fallback, default value, logging, cleanup, etc.
 
   ```js
@@ -306,8 +302,8 @@ For retry, fallback, default value, logging, cleanup, etc.
   }
   ```
 
-### Should the caller decide how to handle the error
-**Yes →** Let the error bubble up, and use `try/catch` **outside**.
+### Question 2: Should the caller decide how to handle the error
+Let the error bubble up, and use `try/catch` **outside**.
 WIthin in service layers, controllers, or top-level handlers.
 
   ```js
@@ -326,10 +322,8 @@ WIthin in service layers, controllers, or top-level handlers.
   })();
   ```
 
----
-
-### Wanting both local handling *and* caller awareness
-**Yes →** Use `try/catch` **inside**, then `throw` again.
+### Quation 3: Wanting both local handling *and* caller awareness
+Use `try/catch` **inside**, then `throw` again.
 To log or partially handle, but still let the caller know.
 
   ```js
@@ -344,9 +338,8 @@ To log or partially handle, but still let the caller know.
   }
   ```
 
-
 ### Overall Conclusion & Summary
 
-* **Inside** → if the function can **recover, log, or wrap the error**.
-* **Outside** → if the caller should **control the error policy**.
-* **Both** → if you need **logging + caller awareness**.
+* **Inside**: if the function can **recover, log, or wrap the error**.
+* **Outside**: if the caller should **control the error policy**.
+* **Both**: if **logging + caller awareness** is needed.
