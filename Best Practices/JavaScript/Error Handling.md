@@ -1,5 +1,18 @@
 # Error Handling
 
+## Error Cause
+
+Don't rethrow errors without a cause. This will make errors more meaningful.
+Including, making a new (specific) error class extending the base **Error** to not swallow the error causes, and the fact that browsers support this out of the box is clearly better.
+
+Using ESLint 9.35+ this can become a requirement to improve code integrity.
+
+<img width="800" height="627" alt="image" src="https://github.com/user-attachments/assets/8f2ce55e-21eb-4671-9cbc-50538e23a5d2" />
+<img width="780" height="146" alt="image" src="https://github.com/user-attachments/assets/fc4da6f2-133d-4185-8b45-680158379654" />
+
+<img width="1280" height="670" alt="image" src="https://github.com/user-attachments/assets/34f24575-b81b-4dec-b815-6c47ed8e894f" />
+
+
 ## Strategic Use of Try/Catch
 
 Error handling is one of the most critical aspects of writing robust JavaScript applications. However, not all approaches to try/catch are created equal. The placement and design of your error handling can dramatically impact your code's maintainability, debuggability, and overall quality.
