@@ -211,3 +211,142 @@ function apiCall(data)
 Effective error handling isn't about catching every possible error—it's about catching the right errors at the right place. By following these principles, you'll write more maintainable, debuggable, and robust JavaScript applications.
 
 Remember: good error handling is like a good safety net. It should be there when you need it, invisible when you don't, and should never interfere with the main performance.
+
+-------------------------------------
+
+## Working with Asynchronous Functions
+
+### Example 1 – `try/catch` **inside** the async function
+
+This is the most common and recommended approach:
+
+```js
+async function fetchData() {
+  try {
+    let res = await fetch("https://api.example.com/data");
+    let data = await res.json();
+    return data;
+  } catch (err) {
+    console.error("Error inside fetchData:", err);
+    throw err; // rethrow if you want the caller to handle it too
+  }
+}
+
+(async () => {
+  try {
+    const result = await fetchData();
+    console.log(result);
+  } catch (err) {
+    console.error("Handled in caller:", err);
+  }
+})();
+```
+
+**Advantages:**
+- You can handle errors *close to where they occur*.
+- You can add fallback logic, retries, or logging locally.
+- Keeps responsibilities clear: the function decides what to do with its own errors.
+
+### Example 2 – `try/catch` **outside** the async function
+
+If you don’t use `try/catch` inside, you can still catch the error where the function is awaited:
+
+```js
+async function fetchData() {
+  let res = await fetch("https://api.example.com/data");
+  return res.json(); // if this fails, it rejects
+}
+
+(async () => {
+  try {
+    const result = await fetchData();
+    console.log(result);
+  } catch (err) {
+    console.error("Handled in caller:", err);
+  }
+})();
+```
+
+**Advantages:**
+- Keeps the async function “clean” and lets the caller decide how to handle errors.
+- Useful when you want to **propagate errors upward** (like in a service layer).
+
+### Overall Conclusion & Summmary
+
+With **async functions**, `try/catch` is most useful **inside the function**, because async functions return a `Promise`, and exceptions inside them will reject the `Promise`.
+
+- **Put `try/catch` inside an async function** when the function itself can recover, retry, or needs to log errors.
+- **Leave `try/catch` outside** if you want to propagate errors to the caller and let them decide how to handle it.
+- You can mix both: handle recoverable errors inside, rethrow critical ones to be caught outside.
+
+
+
+Perfect — here’s a *
+
+---
+
+## 📌 Async Function Error Handling Decision Tree
+
+Now let's continue expending on Example 2.
+Asking 3 questions using a *decision tree**, let's follow when deciding where to put `try/catch` in async functions:
+
+### Can the function itself handle/recover from the error
+**Yes →** Put `try/catch` **inside** the function.
+For retry, fallback, default value, logging, cleanup, etc.
+
+  ```js
+  async function fetchData() {
+    try {
+      const res = await fetch("https://api.example.com/data");
+      return await res.json();
+    } catch (err) {
+      console.error("fetchData failed, using fallback.");
+      return []; // fallback result
+    }
+  }
+  ```
+
+### Should the caller decide how to handle the error
+**Yes →** Let the error bubble up, and use `try/catch` **outside**.
+WIthin in service layers, controllers, or top-level handlers.
+
+  ```js
+  async function fetchData() {
+    const res = await fetch("https://api.example.com/data");
+    return res.json(); // throws if invalid
+  }
+
+  (async () => {
+    try {
+      const data = await fetchData();
+      console.log(data);
+    } catch (err) {
+      console.error("Caller handles error:", err);
+    }
+  })();
+  ```
+
+---
+
+### Wanting both local handling *and* caller awareness
+**Yes →** Use `try/catch` **inside**, then `throw` again.
+To log or partially handle, but still let the caller know.
+
+  ```js
+  async function fetchData() {
+    try {
+      const res = await fetch("https://api.example.com/data");
+      return await res.json();
+    } catch (err) {
+      console.error("Error in fetchData:", err);
+      throw err; // rethrow to caller
+    }
+  }
+  ```
+
+
+### Overall Conclusion & Summary
+
+* **Inside** → if the function can **recover, log, or wrap the error**.
+* **Outside** → if the caller should **control the error policy**.
+* **Both** → if you need **logging + caller awareness**.
