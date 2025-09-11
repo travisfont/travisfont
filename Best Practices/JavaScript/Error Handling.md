@@ -213,6 +213,73 @@ Effective error handling isn't about catching every possible error—it's about 
 Remember: good error handling is like a good safety net. It should be there when you need it, invisible when you don't, and should never interfere with the main performance.
 
 -------------------------------------
+## Synchronous Function Error Handling (Decision Tree)
+Sync functions (non-async) don’t return Promises, so unhandled exceptions will bubble up immediately unless caught.
+
+
+### Question 1: Can the function itself safely recover or provide a fallback?
+
+
+Put `try/catch` **inside**.
+To retry, default values, cleanup, logging, etc.
+
+  ```js
+  function parseJSON(str) {
+    try {
+      return JSON.parse(str);
+    } catch (err) {
+      console.warn("Invalid JSON, returning empty object.");
+      return {};
+    }
+  }
+  ```
+
+### Question 2: Should the caller decide how to handle the error
+
+Do **not** catch inside. Let the exception bubble up, and use `try/catch` **outside**.
+For library code, utility functions, domain-specific logic
+
+  ```js
+  function parseJSON(str) {
+    return JSON.parse(str); // throw if invalid
+  }
+
+  try {
+    const data = parseJSON('bad json');
+  } catch (err) {
+    console.error("Caller handles error:", err);
+  }
+  ```
+
+### Question 3: Wanting both local handling *and* caller awareness
+
+Catch **inside**, then `throw` a new or wrapped error.
+For logging or wrapping errors before passing them up.
+
+  ```js
+  function parseJSON(str) {
+    try {
+      return JSON.parse(str);
+    } catch (err) {
+      console.error("parseJSON failed:", err);
+      throw new Error("Invalid JSON provided"); // rethrow with context
+    }
+  }
+  ```
+
+### Overall Conclusion & Summary
+
+- **Inside** → if the function knows how to recover, fallback, or log.
+- **Outside** → if error handling depends on the caller.
+- **Both** → if you want logging/context + caller awareness.
+
+**Food for thought:** The big difference from async:
+
+- With **async**, unhandled errors → rejected Promises (can be caught later).
+- With **sync**, unhandled errors → crash the stack immediately unless caught.
+
+
+-------------------------------------
 
 ## Working with Asynchronous Functions
 
