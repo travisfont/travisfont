@@ -1,5 +1,7 @@
 # JavaScript
 
+- When using packages through NPM, the command for NPM audit should be included during the pipline.
+
 ## Error Handling
 
 - [**Error Cause**](/Best%20Practices/JavaScript/Error%20Handling.md#error-cause)
