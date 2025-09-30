@@ -7,3 +7,21 @@ function getConversionRate(
   // ...
 }
 ```
+
+- **Custom Errors** must start with ContractError_XYZ(). Including, be located within a contract unless a requirement disallows it.
+
+```solidity
+
+error ContractError_NotEnoughETH();
+
+function Example() public payable
+{
+  if (msg.value < fee) {
+    revert ContractError_NotEnoughETH();
+  }
+  
+  // this will cost more gas
+  // require(msg.value > fee, ContractError_NotEnoughETH());
+}
+
+```
