@@ -25,3 +25,4 @@ function Example() public payable
 }
 
 ```
+- Everytime storage is updated, an event should emitted. **Events must start with EventXYX()**
