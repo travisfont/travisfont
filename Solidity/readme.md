@@ -1,5 +1,26 @@
 # Solidity
 
+## File Organization
+
+```text
+project/
+├── src/                    # Main contracts
+│   ├── MyContract.sol
+│   └── utils/
+│       └── MathLib.sol
+├── script/                 # Deployment scripts (*.s.sol)
+│   └── Deploy.s.sol
+├── test/                   # Test files (*.t.sol)
+│   └── MyContract.t.sol
+├── interfaces/             # Interface definitions
+│   └── IMyInterface.sol
+├── lib/                    # External dependencies
+│   └── forge-std/
+└── migrations/
+    └── 1_deploy_contracts.js
+    └── 2_add_features.js
+```
+
 ## Testing
 - [Advanced Deploy Scripts on Foundry](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/advanced-deploy-scripts)
 - [Foundry's Helper Config pattern](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/refactoring-helper) (enviromental configurations)
