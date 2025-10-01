@@ -4,6 +4,11 @@
 - [Advanced Deploy Scripts on Foundry](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/advanced-deploy-scripts)
 - [Foundry's Helper Config pattern](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/refactoring-helper) (enviromental configurations)
 
+
+### Mock/Test Contracts
+- **Mock prefix:** MockToken.sol, MockOracle.sol
+- **Test prefix:** TestERC20.sol
+
 ### Foundry-specific Conventions
 
 In Solidity, the ***.s.sol** and ***.t.sol** file naming conventions are part of the Foundry development framework's standard structure.
