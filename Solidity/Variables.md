@@ -16,7 +16,7 @@
 - All addresses should not hardcoded and should by default be constants.
 
 ```solidity
-import {Test} from "forge-std/Test.sol";
+import {Test}         from "forge-std/Test.sol";
 import {HelperConfig} from "script/HelperConfig.s.sol";
 
 contract ExampleText is Test
