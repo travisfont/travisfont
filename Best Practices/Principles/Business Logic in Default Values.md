@@ -24,10 +24,13 @@ Defaults work well for truly technical or cosmetic choices:
 **Business logic in defaults (Bad):**
 ```cpp
 // The default assumes customer is premium - that's a business decision!
-double calculateDiscount(double amount, std::string customerType = "premium") {
-    if (customerType == "premium") {
+double calculateDiscount(double amount, std::string customerType = "premium")
+{
+    if (customerType == "premium")
+    {
         return amount * 0.20;
     }
+
     return amount * 0.05;
 }
 
@@ -37,11 +40,14 @@ double discount = calculateDiscount(100.0);
 
 **Explicit business logic (Good):**
 ```cpp
-double calculateDiscount(double amount, std::string customerType) {
+double calculateDiscount(double amount, std::string customerType)
+{
     // Caller must explicitly decide customer type
-    if (customerType == "premium") {
+    if (customerType == "premium")
+    {
         return amount * 0.20;
     }
+
     return amount * 0.05;
 }
 
