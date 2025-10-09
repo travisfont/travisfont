@@ -1,4 +1,4 @@
-# business logic to default values
+# business Logic in Default Values
 
 Default values should be simple, safe fallbacks and not in places where significant logic happens. This avoids hiding important decision-making or business rules inside default parameter values.
 
