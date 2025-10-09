@@ -1,0 +1,20 @@
+'// by Traaf van der Font
+
+@startuml
+!theme sketchy-outline
+
+left to right direction
+
+agent "Masters Course in C++ (MIPT, 2025-2026)"
+'// By  Konstantin Vladimirov
+
+"Masters Course in C++ (MIPT, 2025-2026)" --> ("Lecture 1. The Very Soul of C++"  \n [[https://www.youtube.com/watch?v=X6GVR_3FCHU youtube.com/watch?v=X6GVR_3FCHU]])
+"Masters Course in C++ (MIPT, 2025-2026)" --> ("Lecture 2. Strings"               \n [[https://www.youtube.com/watch?v=RV6e7Sq0RmM youtube.com/watch?v=RV6e7Sq0RmM]])
+
+
+center footer
+Last Updated: 2025-09-10
+endfooter
+
+
+@enduml
