@@ -25,7 +25,7 @@
 - **Immutable:**
     - assignment can happen in the constructor
     - gas efficient than regular state variables, but less than constants
-    - only value types (integers, boolean, address, fixed bytes32) can be immutable BUT NOT reference types (strings, arrays, mappings, structs, bytes)
+    - Only value types (integers, boolean, address, fixed bytes32) can be immutable BUT NOT reference types (strings, arrays, mappings, structs, bytes)
 - Use **constant** and **immutable** whenever possible to reduces gas costs and create strong data integrity by immutability.
 
 ### Storage Variables
@@ -53,7 +53,7 @@
 - **internal:** Contract and child contractscan call the function
 - **external:** Outside contract only callable function
 
-### Types
+### State Mutability Types
 - **view:** Can read but not modify state
 - **pure:** Cannot read or modify state
 - **payable:** means that the function can be sent ether
