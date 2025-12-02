@@ -16,7 +16,7 @@
 - A complete overview of my GitHub contributions can be reviewed at <a href="https://sourcerer.io/tfont">sourcerer.io/tfont</a> ✔ 📊
 
 ## Articles
-- **Designing Secure Financial Applications in a Web2 & Web3 World** (November 27, 2025)
+- [**Designing Secure Financial Applications in a Web2 & Web3 World**](https://www.linkedin.com/pulse/designing-secure-financial-applications-web2-web3-kohce/) (November 27, 2025)
 - [**Stablecoin Issuance Models**](https://www.linkedin.com/pulse/stablecoin-issuance-models-triangulum-technologies-fyzne/) (September 12, 2025)
 
 ### Discussions / Request for Comments
