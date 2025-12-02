@@ -15,6 +15,10 @@
 - And you can catch me hanging around <a href="https://dev.to/travisfont">dev.to</a> 🤓🧾
 - A complete overview of my GitHub contributions can be reviewed at <a href="https://sourcerer.io/tfont">sourcerer.io/tfont</a> ✔ 📊
 
+## Articles
+- **Designing Secure Financial Applications in a Web2 & Web3 World** (November 27, 2025)
+- [**Stablecoin Issuance Models**](https://www.linkedin.com/pulse/stablecoin-issuance-models-triangulum-technologies-fyzne/) (September 12, 2025)
+
 ### Discussions / Request for Comments
 
 - **MariaDB Server -** <a href="https://jira.mariadb.org/browse/MDEV-13467?page=com.atlassian.jira.plugin.system.issuetabpanels%3Aall-tabpanel">Feature request: Support for ST_Distance_Sphere()</a>  _(2017-08-08)_
