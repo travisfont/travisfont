@@ -1,19 +1,15 @@
 ![image](https://github.com/travisfont/tfont/assets/2539998/8d5a7e1f-e5f5-43d4-a2b8-0c91c5aa1d22)
 
-# Who Am I? 😄💻
+# 😄💻 Who is Travis
 
-> The name is Travis - a software engineer who is passionate about making open source more accessible, creating new concepts to elevate inspiration and technologies, and enhancing communities.
+> A software engineer who is passionate about making open source more accessible, creating new concepts to elevate inspiration and technologies, and enhancing communities.
 
 ### JavaScript/TypeScript, PHP, Solidity, Go, C#, C++ & C
-**#HappyCoding**
+_**#HappyCoding**_
 
-## Find me around the web 🌎
-- Learning in public on <a href="https://stackoverflow.com/users/1804013/tfont">Stack Overflow</a> 💡⚡
-- Sharing ideas, updates, and articles on <a href="https://twitter.com/travisfont">Twitter</a> 🌱💬
-- More about the technologies and software that I use at <a href="https://stackshare.io/travisfont/experienced-technologies">StackShare</a> 💻⚙
-- You can also find my CV/Resume online at <a href="https://www.linkedin.com/in/tfont">Linkedin</a>🎓📚
-- And you can catch me hanging around <a href="https://dev.to/travisfont">dev.to</a> 🤓🧾
-- A complete overview of my GitHub contributions can be reviewed at <a href="https://sourcerer.io/tfont">sourcerer.io/tfont</a> ✔ 📊
+## 🌎 Around the Innerwebz 
+
+<p style="text-align: center;" align="center"><a href="https://x.com/travisfont">X</a> - <a href="https://www.linkedin.com/in/tfont">Linkedin</a> - <a href="https://stackoverflow.com/users/1804013/tfont">Stack Overflow</a> - <a href="https://stackshare.io/travisfont#stacks">StackShare</a> - <a href="https://medium.com/@travis.font">Medium</a> - <a href="https://dev.to/travisfont">dev.to</a></p>
 
 ## Articles
 - [**Designing Secure Financial Applications in a Web2 & Web3 World**](https://www.linkedin.com/pulse/designing-secure-financial-applications-web2-web3-kohce/) (November 27, 2025)
