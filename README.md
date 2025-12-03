@@ -19,6 +19,10 @@
 - [**Designing Secure Financial Applications in a Web2 & Web3 World**](https://www.linkedin.com/pulse/designing-secure-financial-applications-web2-web3-kohce/) (November 27, 2025)
 - [**Stablecoin Issuance Models**](https://www.linkedin.com/pulse/stablecoin-issuance-models-triangulum-technologies-fyzne/) (September 12, 2025)
 
+## Presenations
+- [**Angular 2**](https://www.slideshare.net/slideshow/angular-2-72223624/72223624) (2017)
+- [**TypeScript Introduction**](https://www.slideshare.net/slideshow/typescript-introduction-62787631/62787631) (2016)
+
 ### Discussions / Request for Comments
 
 - **MariaDB Server -** <a href="https://jira.mariadb.org/browse/MDEV-13467?page=com.atlassian.jira.plugin.system.issuetabpanels%3Aall-tabpanel">Feature request: Support for ST_Distance_Sphere()</a>  _(2017-08-08)_
