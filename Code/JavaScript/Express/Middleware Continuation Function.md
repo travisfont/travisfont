@@ -1,4 +1,4 @@
-# Middlewar Continuation Function
+# Middleware Continuation Function
 
 
 ## What next() Does
