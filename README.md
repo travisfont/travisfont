@@ -11,6 +11,7 @@ _**#HappyCoding**_ 😄💻
 ## Articles
 
 ### Coding
+- [**First-Class Functions in JavaScript**](https://dev.to/travisfont/first-class-functions-in-javascript-4dia) (December 15, 2025)
 - [**Functional Composition in JavaScript**](https://dev.to/travisfont/functional-composition-in-javascript-3n6j) (December 10, 2025)
 
 ### Blockchain
