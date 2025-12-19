@@ -5,7 +5,7 @@ _**#HappyCoding**_ 😄💻
 
 ## 🌎 Around the Innerwebz 
 
-<p style="text-align: center;" align="center"><a href="https://x.com/travisfont">X</a> - <a href="https://www.linkedin.com/in/tfont">Linkedin</a> - <a href="https://stackoverflow.com/users/1804013/tfont">Stack Overflow</a> - <a href="https://medium.com/@travis.font">Medium</a> - <a href="https://paragraph.com/0x80457721982213acca9a0be483d58c72c2726773">Paragraph</a> -  <a href="https://dev.to/travisfont">dev.to</a> - <a href="https://laracasts.com/@tfont">Laracast</a> - <a href="https://coddy.tech/user/WCQ6f39mPsZXawFGrKT6oL0xEKq2">Coddy</a> - <a href="https://www.patreon.com/c/CodeWithoutChaos">Patreon.com</a> - <a href="https://stackshare.io/travisfont#stacks">StackShare</a></p>
+<p style="text-align: center;" align="center"><a href="https://x.com/travisfont">X</a> - <a href="https://www.linkedin.com/in/tfont">Linkedin</a> - <a href="https://stackoverflow.com/users/1804013/tfont">Stack Overflow</a> - <a href="https://medium.com/@travis.font">Medium</a> - <a href="https://paragraph.com/0x80457721982213acca9a0be483d58c72c2726773">Paragraph</a> -  <a href="https://dev.to/travisfont">dev.to</a> - <a href="https://laracasts.com/@tfont">Laracast</a> - <a href="https://coddy.tech/user/WCQ6f39mPsZXawFGrKT6oL0xEKq2">Coddy</a> - <a href="https://www.patreon.com/c/CodeWithoutChaos">Patreon</a> - <a href="https://stackshare.io/travisfont#stacks">StackShare</a></p>
 
 
 ## Articles
