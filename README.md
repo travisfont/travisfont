@@ -13,6 +13,8 @@ _**#HappyCoding**_ 😄💻
 ### Coding
 - [**First-Class Functions in JavaScript**](https://dev.to/travisfont/first-class-functions-in-javascript-4dia) (December 15, 2025)
 - [**Functional Composition in JavaScript**](https://dev.to/travisfont/functional-composition-in-javascript-3n6j) (December 10, 2025)
+  ### Code Snippets Series
+  - [**JavaScript Snippets: Split & Map**](https://dev.to/travisfont/javascript-snippets-split-map-4736) (January 7, 2026)
 
 ### Blockchain
 - [**Fusaka Goes Live & Pushes Ethereum into the Next Era**](https://www.linkedin.com/pulse/fusaka-goes-live-pushes-ethereum-next-era-triangulum-technologies-f64ne/?trackingId=cOxJBXxsuCFMIYmSOFByKg%3D%3D) (December 10, 2025)
