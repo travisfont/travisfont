@@ -241,7 +241,8 @@ The filter function always returns a new array, leaving the original unchanged. 
 
 **#HappyCoding**
 
-### References:
+## References
+
 - MDN Docs - [Array.prototype.splice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
   - GeeksForGeeks - [JavaScript Array splice() Method](https://www.geeksforgeeks.org/javascript/javascript-array-splice-method/)
   - Codecademy - [JavaScript .splice()](https://www.codecademy.com/resources/docs/javascript/arrays/splice)
