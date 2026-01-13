@@ -16,6 +16,8 @@ _**#HappyCoding**_ 😄💻
   ### Code Snippets Series
   - [**PHP Snippets: Property Hooks**](https://dev.to/travisfont/php-snippets-property-hooks-148i) (January 9, 2026)
   - [**JavaScript Snippets: Split & Map**](https://dev.to/travisfont/javascript-snippets-split-map-4736) (January 7, 2026)
+  ### PHP Attribute Series
+  - [**SensitiveParameter**](https://dev.to/travisfont/php-attribute-sensitiveparameter-paf) (January 13, 2026)
 
 ### Blockchain
 - [**Fusaka Goes Live & Pushes Ethereum into the Next Era**](https://www.linkedin.com/pulse/fusaka-goes-live-pushes-ethereum-next-era-triangulum-technologies-f64ne/?trackingId=cOxJBXxsuCFMIYmSOFByKg%3D%3D) (December 10, 2025)
