@@ -2,4 +2,4 @@
 
 - Codecademy - [**Certificate of Completion: Learn Intermediate Go**](https://www.codecademy.com/profiles/traaf/certificates/42ee48b10e8644f0b3131a933c02cd00) (2025)
 - Codecademy - [**Certificate of Completion: Learn Go: Loops, Arrays, Maps, and Structs**](https://www.codecademy.com/profiles/traaf/certificates/c5a07b3444c44fb0b3883075c5af51f4) (2025)
-- Codecademy - **Certificate of Completion: Learn Go** (2025)
+- Codecademy - [**Certificate of Completion: Learn Go**](/Certificates/Golang/Codecademy%20-%20Certificate%20of%20Completion%20-%20Learn%20Go%20(2025).pdf) (2025)
