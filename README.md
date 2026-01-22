@@ -11,7 +11,8 @@ _**#HappyCoding**_ 😄💻
 ## Articles
 
 ### Coding
-- Understanding Array Traversal Patterns in JavaScript
+- [**Array Traversal Patterns**](https://dev.to/travisfont/array-traversal-patterns-35pj) (January 22, 2026)
+- [**Understanding Array Traversal Patterns in JavaScript**](https://dev.to/travisfont/understanding-array-traversal-patterns-in-javascript-gfg) (January 19, 2026)
 - [**First-Class Functions in JavaScript**](https://dev.to/travisfont/first-class-functions-in-javascript-4dia) (December 15, 2025)
 - [**Functional Composition in JavaScript**](https://dev.to/travisfont/functional-composition-in-javascript-3n6j) (December 10, 2025)
   ### Code Snippets Series
