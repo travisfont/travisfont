@@ -1,6 +1,6 @@
 > A software engineer who is passionate about making open source more accessible, creating new concepts to elevate inspiration and technologies, and enhancing communities.
 
-### JavaScript/TypeScript, PHP, Solidity, Go, C#, C++ & C<br/>([Complete Certification Overview](/Certificates))
+### JavaScript/TypeScript, PHP, Solidity, Go, C#, C++ & C<br/>— [Complete Certification Overview](/Certificates)
 _**#HappyCoding**_ 😄💻
 
 ## 🌎 Around the Innerwebz 
