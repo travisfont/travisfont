@@ -1,3 +1,3 @@
 # MongoDB
 
-- Proof of Completion - [**MongoDB Overview - Core Concepts & Architecture**](https://www.credly.com/badges/e3ab2497-c8d4-41b3-a031-467d47886272/linked_in_profile)
+- Proof of Completion - [**MongoDB Overview: Core Concepts & Architecture**](https://www.credly.com/badges/e3ab2497-c8d4-41b3-a031-467d47886272/linked_in_profile)
