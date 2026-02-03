@@ -15,7 +15,10 @@
 - LinkedIn Learning - [**Certificate of Completion - JavaScript: Maps and Sets**](https://certificate.travisfont.com/2025-linkedin-javascript-maps-sets) (2025)
 - Codecademy        - [**Certificate of Completion: Learn Intermediate JavaScript Course**](/Certificates/JavaScript/Codecademy%20-%20Certificate%20of%20Completion%20-%20Learn%20Intermediate%20JavaScript%20Course%20(2025).pdf) (2025)
 
+## Data
 
+### MongoDB
+- MongoDB - [**Proof of Completion: MongoDB Overview - Core Concepts & Architecture**](/Certificates/MongoDB/Proof%20of%20Completion%20-%20MongoDB%20Overview%20-%20Core%20Concepts%20%26%20Architecture%20(2025).pdf) (2025) <sup>[ref](https://www.credly.com/badges/e3ab2497-c8d4-41b3-a031-467d47886272/linked_in_profile)</sup>
 
 ## Blockchain
 
