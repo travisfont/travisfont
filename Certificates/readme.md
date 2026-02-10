@@ -26,7 +26,7 @@
 - Codecademy        - [**Certificate of Completion: Learn Intermediate JavaScript Course**](/Certificates/JavaScript/Codecademy%20-%20Certificate%20of%20Completion%20-%20Learn%20Intermediate%20JavaScript%20Course%20(2025).pdf) (2025)
 - Codecademy        - [**Certificate of Completion: Learn JavaScript Course**](/Certificates/JavaScript/Codecademy%20-%20Certificate%20of%20Completion%20-%20Learn%20JavaScript%20Course%20(2025).pdf) (2025)
 
-## Node.js
+### Node.js
 
 - LinkedIn Learning - [**Certificate of Completion: Building RESTful APIs with Node.js and Express**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20Building%20RESTful%20APIs%20with%20Node.js%20and%20Express.pdf) (2025)
 - LinkedIn Learning - [**Certificate of Completion: Express Essentials - Build Powerful Web Apps with Node.js**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20Express%20Essentials%20-%20Build%20Powerful%20Web%20Apps%20with%20Node.js%20(2025).pdf) (2025)
