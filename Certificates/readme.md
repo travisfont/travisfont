@@ -35,6 +35,18 @@
 - Codecademy        - [**Certificate of Completion: Learn Node.js Course**](/Certificates/JavaScript/Codecademy%20-%20Certificate%20of%20Completion%20-%20Learn%20Node.js%20Course%20(2025).pdf) (2025)
 - LinkedIn Learning - [**Certificate of Completion - Learning Webpack 4**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20Learning%20Webpack%204.pdf) (2025)
 
+### Testing
+
+- LinkedIn Learning - [**Certificate of Completion: JavaScript TestDriven Development ES6**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20JavaScript%20TestDriven%20Development%20ES6%20(2025).pdf) (2025)
+
+## AI / Prompt Engineering
+
+- Sololearn - [**Course Certification: Introduction to LLMs**](/Certificates/Data/Sololearn%20-%20Course%20Certification%20-%20Introduction%20to%20LLMs%20(2026).pdf) (2026)
+  <sup>[[ref](https://www.sololearn.com/en/certificates/CC-9XAORBFN)]</sup>
+- Sololearn - [**Prompt Engineering Course Certificate**](/Certificates/Data/Sololearn%20-%20Prompt%20Engineering%20Course%20Certificate%20(2026).pdf) (2026)
+  <sup>[[ref](https://www.sololearn.com/certificates/CC-IIUIWNM6)]</sup>
+- Sololearn - [**AI-Powered A/B Testing Course Certificate**](/Certificates/Data/Sololearn%20-%20AI-Powered%20AB%20Testing%20Course%20Certificate%20(2026).pdf) (2026)
+   <sup>[[ref](https://www.sololearn.com/certificates/CC-UUC1JWAP)]</sup>
 
 ## Data
 
