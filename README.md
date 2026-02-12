@@ -9,6 +9,7 @@ _**#HappyCoding**_ 😄💻
 
 ## Projects
 - [**CharMap**](https://github.com/travisfont/CharMap) (PHP)
+- [**Enum**](https://github.com/QuickStartLibs/Enum) (PHP)
 
 ## Articles
 
