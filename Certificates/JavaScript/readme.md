@@ -5,8 +5,10 @@
 - Linkedin Learning - [**Certificate of Completion: Learning Functional Programming with JavaScript ES6**](/Certificates/JavaScript/Linkedin%20Learning%20-%20Certificate%20of%20Completion%20-%20Learning%20Functional%20Programming%20with%20JavaScript%20ES6%20(2025).pdf) (2025)
 - LinkedIn Learning - [**Certificate of Completion: JavaScript - Prototypes**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20JavaScript%20-%20Prototypes%20(2025).pdf) (2025)
 - LinkedIn Learning - [**Certificate of Completion: JavaScript -  Maps and Sets**](https://certificate.travisfont.com/2025-linkedin-javascript-maps-sets) (2025)
+- LinkedIn Learning - [**Certificate of Completion: JavaScript -  Arrays**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20JavaScript%20-%20Arrays%20(2025).pdf) (2025)
 - Codecademy        - [**Certificate of Completion: Learn Intermediate JavaScript Course**](/Certificates/JavaScript/Codecademy%20-%20Certificate%20of%20Completion%20-%20Learn%20Intermediate%20JavaScript%20Course%20(2025).pdf) (2025)
 - Codecademy        - [**Certificate of Completion: Learn JavaScript Course**](/Certificates/JavaScript/Codecademy%20-%20Certificate%20of%20Completion%20-%20Learn%20JavaScript%20Course%20(2025).pdf) (2025)
+- LinkedIn Learning - [**Certificate of Completion: Learning the JavaScript Language**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20Learning%20the%20JavaScript%20Language%20(2025).pdf) (2025)
 
 ## Node.js
 
