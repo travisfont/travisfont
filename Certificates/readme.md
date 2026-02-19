@@ -28,7 +28,7 @@
 - LinkedIn Learning - [**Certificate of Completion: JavaScript - Maps and Sets**](https://certificate.travisfont.com/2025-linkedin-javascript-maps-sets) (2025)
 - LinkedIn Learning - [**Certificate of Completion: JavaScript - Arrays**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20JavaScript%20-%20Arrays%20(2025).pdf) (2025)
 - LinkedIn Learning - [**Certificate of Completion: JavaScript - Scope**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20JavaScript%20-%20Scope%20(2025).pdf) (2025)
-- LinkedIn Learning - [**Certificate of Completion: JavaScript - Security Essentials**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion_JavaScript%20-%20Security%20Essentials%20(2025).pdf) (2025)
+- LinkedIn Learning - [**Certificate of Completion: JavaScript - Security Essentials**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20JavaScript%20-%20Security%20Essentials%20(2025).pdf) (2025)
 - Codecademy        - [**Certificate of Completion: Learn JavaScript Course**](/Certificates/JavaScript/Codecademy%20-%20Certificate%20of%20Completion%20-%20Learn%20JavaScript%20Course%20(2025).pdf) (2025)
 - LinkedIn Learning - [**Certificate of Completion: Learning the JavaScript Language**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20Learning%20the%20JavaScript%20Language%20(2025).pdf) (2025)
 
@@ -39,7 +39,8 @@
 - LinkedIn Learning - [**Certificate of Completion: Node.js Security**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20Node.js%20Security%20(2025).pdf) (2025)
 - LinkedIn Learning - [**Certificate of Completion: Node.js Essential Training**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20Node.js%20Essential%20Training.pdf) (2025)
 - Codecademy        - [**Certificate of Completion: Learn Node.js Course**](/Certificates/JavaScript/Codecademy%20-%20Certificate%20of%20Completion%20-%20Learn%20Node.js%20Course%20(2025).pdf) (2025)
-- LinkedIn Learning - [**Certificate of Completion - Learning Webpack 4**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20Learning%20Webpack%204.pdf) (2025)
+- LinkedIn Learning - [**Certificate of Completion: Learning Webpack 4**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20Learning%20Webpack%204.pdf) (2025)
+- LinkedIn Learning - [**Certificate of Completion: Learning NPM - A Package Manager**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20Learning%20NPM%20-%20A%20Package%20Manager%20(2025).pdf) (2025)
 
 ### Testing
 
