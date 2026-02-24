@@ -7,7 +7,8 @@
 - Linkedin Learning - [**Certificate of Completion: React Essential Training**](/Certificates/JavaScript/Linkedin%20Learning%20-%20Certificate%20of%20Completion%20-%20React%20Essential%20Training%20(2025).pdf) (2025)
 - LinkedIn Learning - [**Certificate of Completion: JavaScript - Classes**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20JavaScript%20-%20Classes%20(2025).pdf) (2025)
 - LinkedIn Learning - [**Certificate of Completion: JavaScript - Prototypes**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20JavaScript%20-%20Prototypes%20(2025).pdf) (2025)
-- LinkedIn Learning - [**Certificate of Completion: JavaScript - Maps and Sets**](https://certificate.travisfont.com/2025-linkedin-javascript-maps-sets) (2025)
+- LinkedIn Learning - [**Certificate of Completion: JavaScript - Maps & Sets**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20JavaScript%20-%20Maps%20&%20Sets%20(2025).pdf) (2025)
+  <sup>[ref](https://certificate.travisfont.com/2025-linkedin-javascript-maps-sets)</sup>
 - LinkedIn Learning - [**Certificate of Completion: JavaScript - Arrays**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20JavaScript%20-%20Arrays%20(2025).pdf) (2025)
 - LinkedIn Learning - [**Certificate of Completion: JavaScript - Scope**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20JavaScript%20-%20Scope%20(2025).pdf) (2025)
 - LinkedIn Learning - [**Certificate of Completion: JavaScript - Security Essentials**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20JavaScript%20-%20Security%20Essentials%20(2025).pdf) (2025)
