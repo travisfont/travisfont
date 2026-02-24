@@ -25,7 +25,8 @@
 - Linkedin Learning - [**Certificate of Completion: React Essential Training**](/Certificates/JavaScript/Linkedin%20Learning%20-%20Certificate%20of%20Completion%20-%20React%20Essential%20Training%20(2025).pdf) (2025)
 - LinkedIn Learning - [**Certificate of Completion: JavaScript - Classes**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20JavaScript%20-%20Classes%20(2025).pdf) (2025)
 - LinkedIn Learning - [**Certificate of Completion: JavaScript - Prototypes**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20JavaScript%20-%20Prototypes%20(2025).pdf) (2025)
-- LinkedIn Learning - [**Certificate of Completion: JavaScript - Maps and Sets**](https://certificate.travisfont.com/2025-linkedin-javascript-maps-sets) (2025)
+- LinkedIn Learning - [**Certificate of Completion: JavaScript - Maps & Sets**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20JavaScript%20-%20Maps%20&%20Sets%20(2025).pdf) (2025)
+  <sup>[ref](https://certificate.travisfont.com/2025-linkedin-javascript-maps-sets)</sup>
 - LinkedIn Learning - [**Certificate of Completion: JavaScript - Arrays**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20JavaScript%20-%20Arrays%20(2025).pdf) (2025)
 - LinkedIn Learning - [**Certificate of Completion: JavaScript - Scope**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20JavaScript%20-%20Scope%20(2025).pdf) (2025)
 - LinkedIn Learning - [**Certificate of Completion: JavaScript - Security Essentials**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20JavaScript%20-%20Security%20Essentials%20(2025).pdf) (2025)
@@ -59,6 +60,12 @@
 
 ### MongoDB
 - MongoDB - [**Proof of Completion: MongoDB Overview - Core Concepts & Architecture**](/Certificates/MongoDB/Proof%20of%20Completion%20-%20MongoDB%20Overview%20-%20Core%20Concepts%20%26%20Architecture%20(2025).pdf) (2025) <sup>[ref](https://www.credly.com/badges/e3ab2497-c8d4-41b3-a031-467d47886272/linked_in_profile)</sup>
+
+### Data Protection
+
+- WS Datenschutz - [**Certificate: Data Protection in IT-Development**](/Certificates/Data/WS%20Datenschutz%20-%20Data%20Protection%20in%20IT-Development%20(2021).pdf) (2021)
+- WS Datenschutz - [**Certificate: Data Protection in Home-Office**](/Certificates/Data/WS%20Datenschutz%20-%20Data%20Protection%20in%20Home-Office%20(2021).pdf) (2021)
+- WS Datenschutz - [**Certificate: Data Protection for Employees**](/Certificates/Data/WS%20Datenschutz%20-%20Data%20Protection%20for%20Employees%20(2021).pdf) (2021)
 
 ## Blockchain
 
