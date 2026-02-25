@@ -43,6 +43,10 @@
 - LinkedIn Learning - [**Certificate of Completion: Learning Webpack 4**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20Learning%20Webpack%204.pdf) (2025)
 - LinkedIn Learning - [**Certificate of Completion: Learning NPM - A Package Manager**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20Learning%20NPM%20-%20A%20Package%20Manager%20(2025).pdf) (2025)
 
+### Vue.js
+- LinkedIn Learning - [**Certificate of Completion: Vue.js 3 Essential Training**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20Vue.js%203%20Essential%20Training%20(2026).pdf) (2026)
+- LinkedIn Learning - [**Certificate of Completion: Learning Vue.js**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20Learning%20Vue.js%20(2026).pdf) (2026)
+
 ### Testing
 
 - LinkedIn Learning - [**Certificate of Completion: JavaScript TestDriven Development ES6**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20JavaScript%20TestDriven%20Development%20ES6%20(2025).pdf) (2025)
