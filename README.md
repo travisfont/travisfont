@@ -9,6 +9,7 @@ _**#HappyCoding**_ 😄💻
 
 ## Projects
 - [**Tuple**](https://github.com/travisfont/Tuple) (PHP)
+- [**ArrayList**](https://github.com/travisfont/ArrayList/tree/master) (PHP)
 - [**Enum**](https://github.com/QuickStartLibs/Enum) (PHP)
 - [**Stash Queries**](https://github.com/QuickStartLibs/DB) (PHP)
 - [**CharMap**](https://github.com/travisfont/CharMap) (PHP)
