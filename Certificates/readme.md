@@ -52,6 +52,16 @@
 
 - LinkedIn Learning - [**Certificate of Completion: JavaScript TestDriven Development ES6**](/Certificates/JavaScript/LinkedIn%20Learning%20-%20Certificate%20of%20Completion%20-%20JavaScript%20TestDriven%20Development%20ES6%20(2025).pdf) (2025)
 
+
+# Go
+
+- Codecademy - [**Certificate of Completion: Learn Intermediate Go**](/Certificates/Golang/Codecademy%20-%20Certificate%20of%20Completion%20-%20Learn%20Intermediate%20Go%20(2025).pdf) (2025)
+   <sup>[[ref](https://www.codecademy.com/profiles/traaf/certificates/42ee48b10e8644f0b3131a933c02cd00)]</sup>
+- Codecademy - [**Certificate of Completion: Learn Go: Loops, Arrays, Maps, and Structs**](/Certificates/Golang/Codecademy%20-%20Certificate%20of%20Completion%20-%20Learn%20Go%20-%20Loops,%20Arrays,%20Maps,%20and%20Structs%20(2025).pdf) (2025)
+  <sup>[[ref](https://www.codecademy.com/profiles/traaf/certificates/c5a07b3444c44fb0b3883075c5af51f4)]</sup>
+- Codecademy - [**Certificate of Completion: Learn Go**](/Certificates/Golang/Codecademy%20-%20Certificate%20of%20Completion%20-%20Learn%20Go%20(2025).pdf) (2025)
+
+
 ## AI / Prompt Engineering
 
 - Sololearn - [**Course Certification: Introduction to LLMs**](/Certificates/Data/Sololearn%20-%20Course%20Certification%20-%20Introduction%20to%20LLMs%20(2026).pdf) (2026)
@@ -71,6 +81,7 @@
 - WS Datenschutz - [**Certificate: Data Protection in IT-Development**](/Certificates/Data/WS%20Datenschutz%20-%20Data%20Protection%20in%20IT-Development%20(2021).pdf) (2021)
 - WS Datenschutz - [**Certificate: Data Protection in Home-Office**](/Certificates/Data/WS%20Datenschutz%20-%20Data%20Protection%20in%20Home-Office%20(2021).pdf) (2021)
 - WS Datenschutz - [**Certificate: Data Protection for Employees**](/Certificates/Data/WS%20Datenschutz%20-%20Data%20Protection%20for%20Employees%20(2021).pdf) (2021)
+
 
 ## Blockchain
 
