@@ -2,6 +2,13 @@
 
 ## Closed
 
+### Claude
+- Theo - t3․gg - [**Claude watermarks your code now**](https://www.youtube.com/watch?v=Be-NqsW-wuk)
+
+### Grok
+#### Grok 4.6
+- Theo - t3․gg - [**xAI just caught up (Grok 4.6 is here)**](https://www.youtube.com/watch?v=c7W8jpsjtCc)
+- 
 ## Open Models
 ### Ollama
 - [**ollama.com**](https://ollama.com/)
