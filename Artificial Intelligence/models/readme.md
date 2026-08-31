@@ -16,6 +16,9 @@
 - Ollama CLI
 - Ollama's API
 
+## Qwen
+- https://simonwillison.net/2026/Aug/16/qwen-38-27b
+
 ### Muse Glimmer (Meta)
 - [Introducing Muse Glimmer: An Open Agentic Model That Runs on Your Device](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
 
