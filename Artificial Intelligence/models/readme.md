@@ -8,7 +8,10 @@
 ### Grok
 #### Grok 4.6
 - Theo - t3․gg - [**xAI just caught up (Grok 4.6 is here)**](https://www.youtube.com/watch?v=c7W8jpsjtCc)
-- 
+
+### MAI
+- https://incrypted.com/en/overview-microsoft-ai-models/
+
 ## Open Models
 ### Ollama
 - [**ollama.com**](https://ollama.com/)
