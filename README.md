@@ -34,10 +34,6 @@
 - [**Designing Secure Financial Applications in a Web2 & Web3 World**](https://www.linkedin.com/pulse/designing-secure-financial-applications-web2-web3-kohce/) (November 27, 2025)
 - [**Stablecoin Issuance Models**](https://www.linkedin.com/pulse/stablecoin-issuance-models-triangulum-technologies-fyzne/) (September 12, 2025)
 
-## Presenations
-- [**Angular 2**](https://www.slideshare.net/slideshow/angular-2-72223624/72223624) (2017)
-- [**TypeScript Introduction**](https://www.slideshare.net/slideshow/typescript-introduction-62787631/62787631) (2016)
-
 ## Discussions / Request for Comments
 
 - **Graft** - <a href="https://github.com/trailhq/Graft/issues/360">Auto-Rebuild Flashes Console Window</a> _(2026-09-24)_
@@ -47,5 +43,9 @@
 - **Event Espresso 4 Core (WordPress)** - <a href="https://github.com/eventespresso/event-espresso-core/issues/240">Changing Price from Action/Filter Hook (Registration)</a>
 - **Corcel (WordPress)** - <a href="https://github.com/corcel/corcel/pull/198">Avoiding PHP Notice</a>
 - **History Master**  - <a href="https://github.com/jiacai2050/history-master/issues/20">Not Displaying Today</a>
+
+## Presenations
+- [**Angular 2**](https://www.slideshare.net/slideshow/angular-2-72223624/72223624) (2017)
+- [**TypeScript Introduction**](https://www.slideshare.net/slideshow/typescript-introduction-62787631/62787631) (2016)
 
 <img src="https://komarev.com/ghpvc/?username=tfont&label=Profile%20views&color=0366d6&style=flat"/><img height="1" width="1" src="https://hit.yhype.me/github/profile?user_id=2539998"/>
