@@ -2,8 +2,8 @@
 
 - Founder and creator of [**Matoo**](http://matoo.io)
 
-### TypeScript, PHP, Go, C#, C++, & Solidity<br/>— [Complete Certification Overview](/Certificates)
-_**#HappyCoding**_ 😄💻
+### TypeScript, PHP, Go, C#, C++, & Solidity<br/><sup>— [Complete Certification Overview](/Certificates)</sup>
+#### _**#HappyCoding**_ 😄💻
 
 ## 🌎 Around the Innerwebz 
 
