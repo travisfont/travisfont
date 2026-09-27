@@ -25,6 +25,12 @@
 ### Muse Glimmer (Meta)
 - [Introducing Muse Glimmer: An Open Agentic Model That Runs on Your Device](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
 
+
+## Classifer
+
+### Jev
+- Maximilian Schwarzmüller - [**Jev: It really Is No joke**](https://www.youtube.com/watch?v=jaVeEz1yY4o) (2026)
+
 ## Harness
 
 ### DeepSeek (DSH)
