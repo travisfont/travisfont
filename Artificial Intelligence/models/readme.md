@@ -3,6 +3,7 @@
 ## Closed
 
 ### Claude
+- https://www.youtube.com/watch?v=osZZjdMZVvA&pp=ugUEEgJlbg%3D%3D
 -  AI Coding Daily - [**I Tried New Sonnet 5.5 on 27 Coding Prompts**](https://www.youtube.com/watch?v=csABiUFtDJE) (Sept. 2026)
 - Theo - t3․gg - [**Claude watermarks your code now**](https://www.youtube.com/watch?v=Be-NqsW-wuk)
 
